@@ -10,9 +10,7 @@ RULES
 
 How to Play
 The Wumpus lives in a cave of twenty rooms. Each room has three
-tunnels leading to other rooms. See Figure 2 below to see how the
-rooms are connected (this is basically a 2-D projection of a dodeca-
-hedron, in case you are interested.) You want to shoot the Wumpus
+tunnels leading to other rooms. You want to shoot the Wumpus
 before it eats you, or you die from falling in a Bottomless Pit or from
 shooting yourself with a Crooked Arrow.
 Play is turn-based. At the start of each turn, the program tells you
@@ -80,16 +78,3 @@ one room away from the Wumpus or a hazard. If you are one room
 away from the Wumpus, it will say “I smell a Wumpus.” If you are
 one room away from a bottomless pit, it will say “I feel a draft”, and
 if you are one room away from the bats, it will say “Bats nearby.”
-
-
-
-
-
-
-
-
-
-
-
-
-
