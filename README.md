@@ -1,5 +1,6 @@
 # Wumpus
-Wumpus, final project for ENGR 102 lab(2021)
+Wumpus, Final project for ENGR 102 lab(2021)
+
 Wumpus was a text-based game created for computers in 1973 by
 Gregory Yob, and was originally written in BASIC (the real original
 BASIC, not visual Basic.) This is a replication of the game in Python.
